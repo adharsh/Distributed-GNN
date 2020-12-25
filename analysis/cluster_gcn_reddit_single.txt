@@ -1,0 +1,49 @@
+Epoch: 01, Loss: 1.0612, 	Time:  0:00:23.548563
+Epoch: 02, Loss: 0.4705, 	Time:  0:00:23.201181
+Epoch: 03, Loss: 0.4144, 	Time:  0:00:23.320986
+Epoch: 04, Loss: 0.3766, 	Time:  0:00:23.002460
+Epoch: 05, Loss: 0.3527, 	Time:  0:00:23.023805
+Epoch: 06, Loss: 0.3559, 	Time:  0:00:23.142154
+Epoch: 07, Loss: 0.3401, 	Time:  0:00:23.516196
+Epoch: 08, Loss: 0.4032, 	Time:  0:00:23.431219
+Epoch: 09, Loss: 0.5491, 	Time:  0:00:23.329291
+Epoch: 10, Loss: 0.3864, 	Time:  0:00:23.422208, Train: 0.9570, Val: 0.9502, Test: 0.9495
+Epoch: 11, Loss: 0.3230, 	Time:  0:00:23.651399
+Epoch: 12, Loss: 0.2988, 	Time:  0:00:23.507011
+Epoch: 13, Loss: 0.2917, 	Time:  0:00:23.257936
+Epoch: 14, Loss: 0.2987, 	Time:  0:00:23.107944
+Epoch: 15, Loss: 0.2982, 	Time:  0:00:22.988212
+Epoch: 16, Loss: 0.3063, 	Time:  0:00:22.810782
+Epoch: 17, Loss: 0.2937, 	Time:  0:00:23.180098
+Epoch: 18, Loss: 0.2885, 	Time:  0:00:23.133852
+Epoch: 19, Loss: 0.2941, 	Time:  0:00:23.067946
+Epoch: 20, Loss: 0.3069, 	Time:  0:00:22.905070, Train: 0.9608, Val: 0.9452, Test: 0.9456
+Epoch: 21, Loss: 0.2778, 	Time:  0:00:22.853938
+Epoch: 22, Loss: 0.2796, 	Time:  0:00:22.693385
+Epoch: 23, Loss: 0.2901, 	Time:  0:00:22.751451
+Epoch: 24, Loss: 0.2854, 	Time:  0:00:22.753897
+Epoch: 25, Loss: 0.2787, 	Time:  0:00:22.829814
+Epoch: 26, Loss: 0.3274, 	Time:  0:00:22.672824
+Epoch: 27, Loss: 0.3170, 	Time:  0:00:22.772081
+Epoch: 28, Loss: 0.2740, 	Time:  0:00:22.885445
+Epoch: 29, Loss: 0.2627, 	Time:  0:00:22.775484
+Epoch: 30, Loss: 0.2830, 	Time:  0:00:22.812865, Train: 0.9621, Val: 0.9446, Test: 0.9445
+Epoch: 31, Loss: 0.2824, 	Time:  0:00:22.756135
+Epoch: 32, Loss: 0.2621, 	Time:  0:00:22.844244
+Epoch: 33, Loss: 0.2692, 	Time:  0:00:22.927878
+Epoch: 34, Loss: 0.2600, 	Time:  0:00:22.955680
+Epoch: 35, Loss: 0.2599, 	Time:  0:00:22.859782
+Epoch: 36, Loss: 0.2513, 	Time:  0:00:22.915235
+Epoch: 37, Loss: 0.2609, 	Time:  0:00:23.151353
+Epoch: 38, Loss: 0.2674, 	Time:  0:00:23.137559
+Epoch: 39, Loss: 0.2604, 	Time:  0:00:23.019847
+Epoch: 40, Loss: 0.2573, 	Time:  0:00:22.893606, Train: 0.9647, Val: 0.9438, Test: 0.9442
+Epoch: 41, Loss: 0.2514, 	Time:  0:00:22.875545
+Epoch: 42, Loss: 0.2585, 	Time:  0:00:22.707072
+Epoch: 43, Loss: 0.2717, 	Time:  0:00:22.758088
+Epoch: 44, Loss: 0.2530, 	Time:  0:00:22.820218
+Epoch: 45, Loss: 0.2617, 	Time:  0:00:22.737218
+Epoch: 46, Loss: 0.2520, 	Time:  0:00:22.875753
+Epoch: 47, Loss: 0.2521, 	Time:  0:00:22.790171
+Epoch: 48, Loss: 0.2441, 	Time:  0:00:22.966045
+Epoch: 49, Loss: 0.2416, 	Time:  0:00:22.973963, Train: 0.9669, Val: 0.9431, Test: 0.9438
